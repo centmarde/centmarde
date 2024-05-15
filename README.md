@@ -11,8 +11,6 @@
 <img alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=centmarde&show_icons=true&locale=en&rank_icon=github" />
 
 
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-
 <!-- About Me Section Here -->
 
 ## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> *About Me*
@@ -32,7 +30,7 @@
 
 - 📫 How to reach me centmarde.campado@gmail.com
 
-![metrics plugin achievements compact](https://github.com/centmarde/centmarde/assets/159101935/f9bec6bb-bfe8-4024-afa7-02ac0043343a)
+
 
 #### Trophy: Github Profile Trophy
 
