@@ -51,7 +51,7 @@
 #### Trophy: Github Profile Trophy
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=centmarde" alt="moion" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=centmarde&row=1&column=9" alt="moion" /></a>
 </p>
 
 <br>
