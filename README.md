@@ -32,7 +32,7 @@
 
 - 😄 Pronouns: **He/His**
   
-- 🌱 I’m currently working on **Laravel Remote Method Invocation Project**
+- 🌱 I’m currently working on **LARAVUE practice**
   
 - 🏆 I'm Interested in making the world better by **PRs**
   
