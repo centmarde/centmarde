@@ -1,7 +1,7 @@
 # Creativity is a must, but the way to solve new problem is ❤️ 
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=centmarde&layout=compact"/>
-<img alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=centmarde&&show_icons=true&bg_color=00000000" />
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStrongestAlgorithm&layout=compact"/>
+<img alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=TheStrongestAlgorithm&&show_icons=true&bg_color=00000000" />
 
 
 
@@ -51,7 +51,7 @@
 #### Trophy: Github Profile Trophy
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=centmarde&row=1&column=9" alt="moion" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheStrongestAlgorithm&row=1&column=9" alt="moion" /></a>
 </p>
 
 <br>
