@@ -32,7 +32,7 @@
 
 - 😄 Pronouns: **He/His**
   
-- 🌱 I’m currently working on **my-Portfolio**
+- 🌱 I’m currently working on **Auto=Solution**
   
 - 🏆 I'm Interested in making the world better by **PRs**
   
