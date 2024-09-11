@@ -1,20 +1,17 @@
 # Creativity is a must, but the way to solve new problems is ❤️ 
 
-<!-- GitHub Stats Section -->
 <div align="center">
-  <img alt="my stats" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=centmarde&layout=compact"/>
-  <img alt="my stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=centmarde&&show_icons=true&bg_color=00000000" />
+  <img alt="my stats" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=centmarde&layout=compact"/>
+  <img alt="my stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=centmarde&&show_icons=true&bg_color=00000000" />
 </div>
 
 
-<!-- Greet Line Comes Here -->
 <p align="center">
   <a href="#">
     <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Happy+to+See+You+Here+😀;This+Is+My+TechStack+💻;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞">
   </a>
 </p>
 
-<!-- Skills Icons Section -->
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=nodejs,c,java,html,css,javascript,vite,mysql,jquery,postgres,php,laravel,postman,react,sass,ps,stackoverflow,git&perline=9" />
