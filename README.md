@@ -1,8 +1,8 @@
 # Creativity is a must, but the way to solve new problems is ❤️ 
 
 <div align="center">
-  <img alt="my stats" width="130%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=centmarde&layout=compact"/>
-  <img alt="my stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=centmarde&&show_icons=true&bg_color=00000000" />
+  <img alt="my stats" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=centmarde&layout=compact"/>
+  <img alt="my stats" width="80%" src="https://github-readme-stats.vercel.app/api?username=centmarde&&show_icons=true&bg_color=00000000" />
 </div>
 
 
