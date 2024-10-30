@@ -22,7 +22,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 - 😄 Pronouns: **He/His**  
-- 🌱 I’m currently working on **Auto-Solutions**  
+- 🌱 I’m currently working on **Kali-Unleashed CSU Game dev.**  
 - 🏆 I'm Interested in making the world better by **PRs**  
 - 👨‍🎓 Studying **Information Technology**  
 - 💬 Ask me about **Web Development Stuffs**  
