@@ -12,23 +12,13 @@
 
 <p align="center">
   <a href="#">
-   <img src="https://skillicons.dev/icons?i=nodejs,c,java,html,css,javascript,vite,mysql,jquery,postgres,php,laravel,postman,react,blender,vue,vuetify,svelte,pinia,kali,sass,ps,stackoverflow,git&perline=8" />
+   <img src="https://skillicons.dev/icons?i=postgres,laravel,vue,vuetify,pinia,ps,git&perline=8" />
 
   </a>
 </p>
 
 <!-- About Me Section -->
-<br>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-- 😄 Pronouns: **He/His**  
-- 🌱 I’m currently working on **Sinawali-Showdown CSU Game dev.**  
-- 🏆 I'm Interested in making the world better by **PRs**  
-- 👨‍🎓 Studying **Information Technology**  
-- 💬 Ask me about **Web Development Stuffs**  
-- 📫 How to reach me: centmarde.campado@gmail.com
-
-<br>
 
 <!-- Trophy Section -->
 #### Trophy: GitHub Profile Trophy
@@ -41,9 +31,3 @@
 
 <br>
 
-<!-- Certificates Section -->
-![Certs](https://github.com/centmarde/centmarde/assets/159101935/b1ad923d-e435-432a-ba01-ee58e8cbcfe5)  
-![Certs2](https://github.com/centmarde/centmarde/assets/159101935/757da78f-0f1c-46f1-8519-e2304184fd3a)
-
-<!-- Bottom Section -->
-![Bottom_down](https://github.com/centmarde/centmarde/assets/159101935/aecdf82d-fe75-4add-9b17-9e0d5961fd8c)
