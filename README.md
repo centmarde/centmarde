@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#">
-   <img src="https://skillicons.dev/icons?i=postgres,laravel,vue,vuetify,pinia,ps,git&perline=8" />
+   <img src="https://skillicons.dev/icons?i=postgres,laravel,supabase,vue,vuetify,pinia,ps,git&perline=8" />
 
   </a>
 </p>
