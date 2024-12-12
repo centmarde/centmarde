@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="#">
-    <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Happy+to+See+You+Here+😀;This+is+my+expertise+💻;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞">
+    <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Happy+to+See+You+Here+😀;This+is+my+skillset+💻;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞">
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-   <img src="https://skillicons.dev/icons?i=postgres,laravel,supabase,vue,vuetify,pinia,ps,git&perline=8" />
+   <img src="https://skillicons.dev/icons?i=laravel,postman,nodejs,supabase,ts,react,svelte,vue,vuetify,bootstrap,materialui,pinia,ps&perline=13" />
 
   </a>
 </p>
