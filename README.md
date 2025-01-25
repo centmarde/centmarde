@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#">
-   <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,pytorch,opencv,django,flask,laravel,postman,supabase,ts,react,svelte,vue,vuetify,pinia,bootstrap,materialui,ps&perline=9" />
+   <img src="https://skillicons.dev/icons?i=django,flask,laravel,postman,supabase,ts,vue,vuetify,pinia,bootstrap,ps&perline=11" />
 
   </a>
 </p>
