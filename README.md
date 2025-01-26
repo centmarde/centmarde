@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#">
-   <img src="https://skillicons.dev/icons?i=django,flask,laravel,postman,supabase,ts,vue,vuetify,pinia,bootstrap,ps&perline=11" />
+   <img src="https://skillicons.dev/icons?i=vercel,django,flask,laravel,postman,supabase,ts,vue,vuetify,pinia,bootstrap,ps&perline=12" />
 
   </a>
 </p>
