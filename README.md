@@ -1,4 +1,3 @@
-# Creativity is a must, but the way to solve new problems is ❤️ 
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=centmarde&layout=compact&bg_color=00000000"/>
 <img alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=centmarde&&show_icons=true&bg_color=00000000" />
