@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#">
-   <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,django,flask,laravel,postman,supabase,ts,vue,vuetify,pinia,bootstrap,ps&perline=13" />
+   <img src="https://skillicons.dev/icons?i=tensorflow,django,flask,laravel,postman,supabase,ts,vue,vuetify,pinia,bootstrap,ps&perline=12" />
   </a>
 </p>
 
