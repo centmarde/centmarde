@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#">
-   <img src="https://skillicons.dev/icons?i=docker,anaconda,tensorflow,django,flask,laravel,postman,supabase,firebase,ts,vue,vuetify,pinia,bootstrap,ps&perline=17" />
+   <img src="https://skillicons.dev/icons?i=docker,anaconda,tensorflow,django,flask,laravel,postman,supabase,firebase,react,ts,vue,vuetify,pinia,bootstrap,ps&perline=16" />
   </a>
 </p>
 
