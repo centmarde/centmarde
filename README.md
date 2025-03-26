@@ -1,11 +1,5 @@
 <p align="center">
   <a href="#">
-    <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Happy+to+See+You+Here+😀;This+is+my+skillset+with+modern+tech.💻;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞">
-  </a>
-</p>
-
-<p align="center">
-  <a href="#">
    <img src="https://skillicons.dev/icons?i=docker,anaconda,tensorflow,django,flask,laravel,postman,supabase,firebase,react,mui,ts,vue,vuetify,pinia,flutter&perline=16" />
   </a>
 </p>
