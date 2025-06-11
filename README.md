@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-   <img src="https://skillicons.dev/icons?i=unity,godot,tensorflow,anaconda,django,flask,laravel,postman,supabase,firebase,svelte,react,vue,ts,vuetify,mui,tailwind,bootstrap,flutter&perline=19" />
+   <img src="https://skillicons.dev/icons?i=godot,unity,tensorflow,anaconda,django,flask,laravel,postman,supabase,firebase,svelte,react,vue,ts,vuetify,mui,tailwind,bootstrap,flutter&perline=19" />
   </a>
 </p>
 
