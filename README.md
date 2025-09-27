@@ -7,7 +7,7 @@
 <!-- About Me Section -->
 
 <!-- Trophy Section -->
-<h4 align="center">🏆 GitHub Profile Trophy</h4>
+
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
