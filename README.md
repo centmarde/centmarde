@@ -29,64 +29,60 @@
 
 ## 🥇 Top Awards
 
-<table>
-<tr>
-<td align="center" width="300">
-<div style="background-image: url('./assets/awards.svg'); background-size: 50px 50px; background-repeat: no-repeat; background-position: top right; background-color: #2d1b2e; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(205, 127, 50, 0.3); border: 2px solid #cd7f32;">
-<img src="https://img.shields.io/badge/🥉_3rd_Place-Nationals_Game_Dev_Challenge-gold?style=for-the-badge&labelColor=1a1a1a&color=cd7f32">
-<br><b style="color: #ffd700;">Nationals Game Dev Challenge</b>
-<br><i style="color: #cd7f32;">DOST PHILIPPINES E-SPORTS</i>
-<br><span style="color: #ffffff;">December 2024</span>
-</div>
-</td>
-<td align="center" width="300">
-<div style="background-image: url('./assets/awards.svg'); background-size: 50px 50px; background-repeat: no-repeat; background-position: top right; background-color: #2d1b2e; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(192, 192, 192, 0.3); border: 2px solid #c0c0c0;">
-<img src="https://img.shields.io/badge/🥈_2nd_Place-Regionals_Hackathon_Challenge-silver?style=for-the-badge&labelColor=1a1a1a&color=c0c0c0">
-<br><b style="color: #e6e6e6;">Regionals Hackathon Challenge</b>
-<br><i style="color: #c0c0c0;">DOST PHILIPPINES / LGU</i>
-<br><span style="color: #ffffff;">July 25, 2024</span>
-</div>
-</td>
-</tr>
-</table>
+| 🥉 **3rd Place** | 🥈 **2nd Place** |
+|:---:|:---:|
+| ![Game Dev](https://img.shields.io/badge/🎮_Nationals_Game_Dev_Challenge-3rd_Place-gold?style=for-the-badge&logo=unity&logoColor=white) | ![Hackathon](https://img.shields.io/badge/💻_Regionals_Hackathon_Challenge-2nd_Place-silver?style=for-the-badge&logo=code&logoColor=white) |
+| **DOST PHILIPPINES E-SPORTS** | **DOST PHILIPPINES / LGU** |
+| December 2024 | July 25, 2024 |
 
 ## 📜 Certifications
 
-<table>
-<tr>
-<td align="center" width="300">
-<div style="background-image: url('./assets/awards.svg'); background-size: 40px 40px; background-repeat: no-repeat; background-position: top right; background-color: #1e1e2e; border-radius: 12px; padding: 15px; margin: 8px; box-shadow: 0 6px 20px rgba(59, 130, 246, 0.2); border: 1px solid #3b82f6;">
-<img src="https://img.shields.io/badge/2024-Basic_Level_of_Software_Engineering-blue?style=for-the-badge&labelColor=1a1a1a">
-<br><b style="color: #60a5fa;">Basic Level of Software Engineering</b>
-<br><i style="color: #3b82f6;">DICT</i>
-<br><span style="color: #e5e7eb;">June 2024</span>
-</div>
-</td>
-<td align="center" width="300">
-<div style="background-image: url('./assets/awards.svg'); background-size: 40px 40px; background-repeat: no-repeat; background-position: top right; background-color: #1e1e2e; border-radius: 12px; padding: 15px; margin: 8px; box-shadow: 0 6px 20px rgba(59, 130, 246, 0.2); border: 1px solid #3b82f6;">
-<img src="https://img.shields.io/badge/2024-Intermediate_Level_of_Software_Engineering-blue?style=for-the-badge&labelColor=1a1a1a">
-<br><b style="color: #60a5fa;">Intermediate Level of Software Engineering</b>
-<br><i style="color: #3b82f6;">DICT</i>
-<br><span style="color: #e5e7eb;">April 2024</span>
-</div>
-</td>
-<td align="center" width="300">
-<div style="background-image: url('./assets/awards.svg'); background-size: 40px 40px; background-repeat: no-repeat; background-position: top right; background-color: #1e1e2e; border-radius: 12px; padding: 15px; margin: 8px; box-shadow: 0 6px 20px rgba(59, 130, 246, 0.2); border: 1px solid #3b82f6;">
-<img src="https://img.shields.io/badge/2024-Advanced_Level_of_Software_Engineering-blue?style=for-the-badge&labelColor=1a1a1a">
-<br><b style="color: #60a5fa;">Advanced Level of Software Engineering</b>
-<br><i style="color: #3b82f6;">DICT</i>
-<br><span style="color: #e5e7eb;">April 2024</span>
-</div>
-</td>
-<td align="center" width="300">
-<div style="background-image: url('./assets/awards.svg'); background-size: 40px 40px; background-repeat: no-repeat; background-position: top right; background-color: #1e1e2e; border-radius: 12px; padding: 15px; margin: 8px; box-shadow: 0 6px 20px rgba(59, 130, 246, 0.2); border: 1px solid #3b82f6;">
-<img src="https://img.shields.io/badge/2024-Fundamentals_of_Marketing-blue?style=for-the-badge&labelColor=1a1a1a">
-<br><b style="color: #60a5fa;">Fundamentals of Marketing</b>
-<br><i style="color: #3b82f6;">DICT</i>
-<br><span style="color: #e5e7eb;">July 2024</span>
-</div>
-</td>
-</tr>
+### 💻 Software Engineering & Development
+| Certificate | Issuer | Date |
+|:---:|:---:|:---:|
+| ![Basic SE](https://img.shields.io/badge/Basic_Level-Software_Engineering-blue?style=for-the-badge&logo=code&logoColor=white) | DICT | June 2024 |
+| ![Intermediate SE](https://img.shields.io/badge/Intermediate_Level-Software_Engineering-blue?style=for-the-badge&logo=code&logoColor=white) | DICT | April 2024 |
+| ![Advanced SE](https://img.shields.io/badge/Advanced_Level-Software_Engineering-blue?style=for-the-badge&logo=code&logoColor=white) | DICT | April 2024 |
+| ![Static Website](https://img.shields.io/badge/Developing-Static_Website-blue?style=for-the-badge&logo=html5&logoColor=white) | DICT | April 2024 |
+
+### 🌐 Web Development
+| Certificate | Issuer | Date |
+|:---:|:---:|:---:|
+| ![JavaScript](https://img.shields.io/badge/Basic_JavaScript-Web_Development-yellow?style=for-the-badge&logo=javascript&logoColor=black) | DICT | March 2024 |
+| ![HTML CSS](https://img.shields.io/badge/HTML_&_CSS-Website_Design-orange?style=for-the-badge&logo=html5&logoColor=white) | DICT | March 2024 |
+| ![Web Principles](https://img.shields.io/badge/Principles_of-Web_Development-orange?style=for-the-badge&logo=html5&logoColor=white) | DICT | March 2024 |
+| ![UI Blocks](https://img.shields.io/badge/Basic_Building_Blocks-User_Interface-blue?style=for-the-badge&logo=react&logoColor=white) | DICT | May 2024 |
+
+### ☁️ Cloud & Digital Innovation
+| Certificate | Issuer | Date |
+|:---:|:---:|:---:|
+| ![Cloud Computing](https://img.shields.io/badge/Basic_Level-Cloud_Computing-blue?style=for-the-badge&logo=amazonaws&logoColor=white) | DICT | March 2024 |
+| ![Digital Innovation](https://img.shields.io/badge/Digital_Innovation-Government-blue?style=for-the-badge&logo=gov&logoColor=white) | DICT | July 2024 |
+| ![Digital Transformation](https://img.shields.io/badge/Basic_Level-Digital_Transformation-blue?style=for-the-badge&logo=digital-ocean&logoColor=white) | DICT | July 2024 |
+| ![Functional Composition](https://img.shields.io/badge/Functional-Composition-blue?style=for-the-badge&logo=lambda&logoColor=white) | DICT | April 2024 |
+
+### 📱 Mobile & Programming
+| Certificate | Issuer | Date |
+|:---:|:---:|:---:|
+| ![Android](https://img.shields.io/badge/Introduction_to-Android_Development-green?style=for-the-badge&logo=android&logoColor=white) | DICT | March 2024 |
+| ![Java Intro](https://img.shields.io/badge/Introduction_to-Java-red?style=for-the-badge&logo=java&logoColor=white) | SOLO LEARN | April 2024 |
+| ![Java Intermediate](https://img.shields.io/badge/Java-Intermediate-red?style=for-the-badge&logo=java&logoColor=white) | SOLO LEARN | April 2024 |
+| ![VR Training](https://img.shields.io/badge/Avre_Framework-Training-indigo?style=for-the-badge&logo=oculus&logoColor=white) | Ateneo VR Escape | June 2025 |
+
+### 🎨 Design & Marketing
+| Certificate | Issuer | Date |
+|:---:|:---:|:---:|
+| ![Marketing](https://img.shields.io/badge/Fundamentals_of-Marketing-blue?style=for-the-badge&logo=google&logoColor=white) | DICT | July 2024 |
+| ![Canva](https://img.shields.io/badge/Canva_for-Graphic_Design-blue?style=for-the-badge&logo=canva&logoColor=white) | DICT | April 2024 |
+| ![Design Principles](https://img.shields.io/badge/Principles_of-Design-blue?style=for-the-badge&logo=figma&logoColor=white) | DICT | July 2024 |
+| ![Art Competition](https://img.shields.io/badge/Online_Art-Competition-pink?style=for-the-badge&logo=artstation&logoColor=white) | SOLO LEARN | December 2020 |
+
+### 🌟 Online Learning
+| Certificate | Issuer | Date |
+|:---:|:---:|:---:|
+| ![HTML Course](https://img.shields.io/badge/Introduction_to-HTML-purple?style=for-the-badge&logo=html5&logoColor=white) | SOLO LEARN | January 2024 |
+| ![CSS Course](https://img.shields.io/badge/Introduction_to-CSS-purple?style=for-the-badge&logo=css3&logoColor=white) | SOLO LEARN | January 2024 |
+| ![JS Course](https://img.shields.io/badge/Introduction_to-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) | SOLO LEARN | March 2024 |
 <tr>
 <td align="center" width="300">
 <div style="background-image: url('./assets/awards.svg'); background-size: 40px 40px; background-repeat: no-repeat; background-position: top right; background-color: #1e1e2e; border-radius: 12px; padding: 15px; margin: 8px; box-shadow: 0 6px 20px rgba(59, 130, 246, 0.2); border: 1px solid #3b82f6;">
