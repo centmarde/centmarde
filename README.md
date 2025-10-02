@@ -24,8 +24,6 @@
 </p>
 
 
-# 🏆 Achievements & Certifications
-
 <div align="center">
 
 ## 🥇 Top Awards
@@ -36,7 +34,7 @@
 | **DOST PHILIPPINES E-SPORTS** | **DOST PHILIPPINES / LGU** |
 | December 2024 | July 25, 2024 |
 
-## 📜 Certifications
+
 
 <table>
 <tr>
