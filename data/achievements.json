@@ -1,0 +1,193 @@
+{
+  "topAwards": [
+    {
+      "id": 1
+     
+    },
+     {
+      "id": 2,
+       "title": "Nationals Game Dev Challenge",
+      "issuer": "DOST PHILIPPINES E-SPORTS",
+      "date": "December2024 3rdPlacer",
+      "image": "/certs/game.png"
+    },
+    {
+      "id": 3,
+      "title": "Regionals Hackathon Challenge",
+      "issuer": "DOST PHILIPPINES / LGU",
+      "date": "July25 2ndPlacer",
+      "image": "/certs/game.png"
+    }
+   
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "title": "Basic Level of Software Engineering",
+      "issuer": "DICT",
+      "date": "June 2024",
+      "image": "/certs/BasicLevelofsoftware.png"
+    },
+    {
+      "id": 2,
+      "title": "Intermediate Level of Software Engineering",
+      "issuer": "DICT",
+      "date": "April 2024",
+      "image": "/certs/IntermediateLevelofSoftware.png"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Level of Software Engineering",
+      "issuer": "DICT",
+      "date": "April 2024",
+      "image": "/certs/AdvanceLevelofSoftware.png"
+    },
+    {
+      "id": 4,
+      "title": "Fundamentals of Marketing",
+      "issuer": "DICT",
+      "date": "July 2024",
+      "image": "/certs/fundamentalsOfMarketing.png"
+    },
+    {
+      "id": 5,
+      "title": "Digital Innovation in Government",
+      "issuer": "DICT",
+      "date": "July 2024",
+      "image": "/certs/DigitalInovation.png"
+    },
+    {
+      "id": 6,
+      "title": "Basic Building Blocks of the User Interface",
+      "issuer": "DICT",
+      "date": "May 2024",
+      "image": "/certs/Basic Building Blocks of the User Interface.pdf.png"
+    },
+    {
+      "id": 7,
+      "title": "Functional Composition",
+      "issuer": "DICT",
+      "date": "April 2024",
+      "image": "/certs/FunctionalComposition.png"
+    },
+    {
+      "id": 8,
+      "title": "Basic Level of Cloud Computing",
+      "issuer": "DICT",
+      "date": "March 2024",
+      "image": "/certs/CloudComputing.png"
+    },
+    {
+      "id": 9,
+      "title": "Canva for Graphic Design",
+      "issuer": "DICT",
+      "date": "April 2024",
+      "image": "/certs/Canva.png"
+    },
+    {
+      "id": 10,
+      "title": "Principles of Design",
+      "issuer": "DICT",
+      "date": "July 2024",
+      "image": "/certs/PrinciplesofDesign.png"
+    },
+    {
+      "id": 11,
+      "title": "Basic Level of Digital Transformation",
+      "issuer": "DICT",
+      "date": "July 2024",
+      "image": "/certs/Digital Transformation.png"
+    },
+    {
+      "id": 12,
+      "title": "Developing a Static Website",
+      "issuer": "DICT",
+      "date": "April 2024",
+      "image": "/certs/StatecWebsite.png"
+    },
+    {
+      "id": 13,
+      "title": "Digital Transformation",
+      "issuer": "DICT",
+      "date": "May 2024",
+      "image": "/certs/Digital Transformation.png"
+    },
+    {
+      "id": 14,
+      "title": "Basic Javascript for Web Development",
+      "issuer": "DICT",
+      "date": "March 2024",
+      "image": "/certs/JavaScriptforWeb.png"
+    },
+    {
+      "id": 15,
+      "title": "Using HTML and CSS to Design a Website",
+      "issuer": "DICT",
+      "date": "March 2024",
+      "image": "/certs/HTML and CSS design.png"
+    },
+    {
+      "id": 16,
+      "title": "Principles of Web Development and Introduction to HTML",
+      "issuer": "DICT",
+      "date": "March 2024",
+      "image": "/certs/PrinciplesofWeb.png"
+    },
+    {
+      "id": 17,
+      "title": "Introduction to Android Application Development",
+      "issuer": "DICT",
+      "date": "March 2024",
+      "image": "/certs/AndroidApp.png"
+    },
+    {
+      "id": 18,
+      "title": "Introduction to HTML course",
+      "issuer": "SOLO LEARN",
+      "date": "January 2024",
+      "image": "/images/certificates/datascience-cert.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Online Art Competition",
+      "issuer": "SOLO LEARN",
+      "date": "Dec 2020",
+      "image": "/certs/art.png"
+    },
+    {
+      "id": 20,
+      "title": "Introduction to CSS course",
+      "issuer": "SOLO LEARN",
+      "date": "January 2024",
+      "image": "/certs/css.png"
+    },
+    {
+      "id": 21,
+      "title": "Introduction to JavaScript course",
+      "issuer": "SOLO LEARN",
+      "date": "March 2024",
+      "image": "/certs/javaBsic.png"
+    },
+    {
+      "id": 22,
+      "title": "Introduction to Java course",
+      "issuer": "SOLO LEARN",
+      "date": "April 2024",
+      "image": "/certs/java.png"
+    },
+    {
+      "id": 23,
+      "title": "Java Intermediate course",
+      "issuer": "SOLO LEARN",
+      "date": "April 2024",
+      "image": "/certs/Java Intermediate.png"
+    },
+    {
+      "id": 24,
+      "title": "Avre Framework Training",
+      "issuer": "Ateneo Virtual Reality Escape",
+      "date": "June 2025",
+      "image": "/certs/Avre.png"
+    }
+  ]
+}
