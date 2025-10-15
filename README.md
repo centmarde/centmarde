@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="#">
-   <img src="https://skillicons.dev/icons?i=docker,unity,tensorflow,django,flask,laravel,postman,supabase,firebase,react,vue,vuetify,ts,mui,tailwind,bootstrap,flutter&perline=18" />
+   <img src="https://skillicons.dev/icons?i=unity,laravel,supabase,react,vuetify,ts&perline=6" />
   </a>
 </p>
 
