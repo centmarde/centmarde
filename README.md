@@ -18,9 +18,4 @@
 
 <br>
 
-<p align="center">
-  <img alt="Top Langs" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=centmarde&layout=compact&bg_color=00000000" />
-  <img alt="GitHub Stats" width="47%" height="200" src="https://github-readme-stats.vercel.app/api?username=centmarde&show_icons=true&bg_color=00000000" />
-</p>
-
 
