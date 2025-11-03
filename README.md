@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="#">
-   <img src="https://skillicons.dev/icons?i=tensorflow,unity,laravel,supabase,firebase,mui,vuetify,tailwind,flutter,ts&perline=10" />
+   <img src="https://skillicons.dev/icons?i=tensorflow,unity,laravel,supabase,firebase,vue,react,ts&perline=8" />
   </a>
 </p>
 
